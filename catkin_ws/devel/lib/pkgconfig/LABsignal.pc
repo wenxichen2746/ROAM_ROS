@@ -1,0 +1,8 @@
+prefix=/home/wx/ROAM_lab/ROAM_ROS/catkin_ws/devel
+
+Name: LABsignal
+Description: Description of LABsignal
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

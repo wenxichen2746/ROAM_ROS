@@ -1,0 +1,8 @@
+prefix=/home/wx/ROAM_lab/ROAM_ROS/catkin_ws/install
+
+Name: signalprocess
+Description: Description of signalprocess
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs message_runtime
